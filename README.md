@@ -31,4 +31,4 @@ Special thanks to Sameer for his guidance and mentorship in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the Licence.md file for details.
+This project is licensed under the MIT License - see the License.md file for details.
